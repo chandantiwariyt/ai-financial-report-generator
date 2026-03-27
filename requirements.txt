@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+plotly
+matplotlib
+reportlab
+openai
+python-dotenv
+fredapi
+requests
