@@ -4,6 +4,9 @@ An institutional-grade financial report generator that automatically
 produces professional analyst-style PDF reports using AI — 
 just like an investment bank analyst would produce.
 
+## 🔴 Live Demo
+> Run locally using the steps below — or deploy free on [Streamlit Cloud](https://ai-financial-report-generator.onrender.com/)
+
 ## 🔍 What It Does
 - Fetches live financial data for any stock (NSE, BSE, NYSE)
 - Calculates key metrics — Sharpe Ratio, ROE, Profit Margin, Max Drawdown
